@@ -1,3 +1,3 @@
 public class hello{
-public static void main(String args[]{
-system.out.println("hello from GitHub and Jenkins"); }}
+  public static void main(String args[]){
+    system.out.println("hello Jenkins"); }}
